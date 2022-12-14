@@ -14,7 +14,10 @@ const Sidebar = () => {
     <Information/>
     <a href='' download='' className='btn'>Descargar cv </a>  
     
-     
+     <p>
+      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus, quos sunt architecto neque fuga quis dolor obcaecati! Alias,
+       recusandae. Natus aliquam ut esse at perspiciatis illo ratione placeat, consequatur cum!
+     </p>
     </aside>
   )
 }
